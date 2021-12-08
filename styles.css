@@ -67,6 +67,10 @@
         width: 120px;
       }
 
+      .flex img {
+       color: darksalmon
+       }
+
       .flex:hover {
         opacity: 0.4;
       }
