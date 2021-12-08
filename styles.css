@@ -66,10 +66,6 @@
         transition: opacity 0.2s ease-in-out;
         width: 120px;
       }
-     .flex img{
-      width:80%; 
-      }
-
 
       .flex:hover {
         opacity: 0.4;
