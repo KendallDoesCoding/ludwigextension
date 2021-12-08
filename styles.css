@@ -71,10 +71,10 @@
         opacity: 0.4;
       }
 
-      .flex, .fa, .fas{
+      .flex .fa {
         font-size: 40px;
         color: #2f5876;
       }
-#tshirt img {
+#img {
  color: "2f5876"
 }
