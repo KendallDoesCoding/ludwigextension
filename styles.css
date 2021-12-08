@@ -71,7 +71,7 @@
         opacity: 0.4;
       }
 
-      .flex .fa {
+      .flex, .fa, .fas{
         font-size: 40px;
         color: #2f5876;
       }
