@@ -1,5 +1,6 @@
 ---
 name: "⭐ Submit a feature request"
+about: 'Please drop in your feature request here, we will consider adding it to the extension, and will let you know our decision'
 title: ''
 labels: ''
 assignees:
