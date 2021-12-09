@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
-    "name": "MKBHD Launcher",
-    "description": "Quick lanuch MKBHD's profiles",
+    "name": "Ludwig Launcher",
+    "description": "The extension all Ludbuds much have, after Mogul.TV, obviously.",
     "version": "1.0.0",
     "icons": {"128": "icon_128.png"},
     "browser_action": {
