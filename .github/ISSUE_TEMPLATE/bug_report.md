@@ -1,18 +1,15 @@
 ---
 name: "\U0001F41B Bug report"
-about: Report a bug while using GitHub Desktop. The full template is required.
+about: Report a bug you found while using the Ludwig Chrome Extension. The full template is required.
 title: ''
 labels: ''
-assignees: ''
+assignees:
+- KendallDoesCoding
 
 ---
 
 ### Describe the bug
 Write a clear and concise description of what the bug is.
-
-### Version & OS
-
-Open the 'About GitHub Desktop' menu to see the GitHub Desktop version. Also include what operating system you are using.
 
 ### Steps to reproduce the behavior
 
@@ -32,10 +29,6 @@ Write a clear and concise description of what actually happened.
 ### Screenshots
 
 Add screenshots to help explain your problem, if applicable.
-
-### Logs
-
-Attach your logs by opening the `Help` menu and selecting `Show Logs...`, if applicable.
 
 ### Additional context
 
